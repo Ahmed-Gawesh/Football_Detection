@@ -34,7 +34,9 @@ License: Not specified in dataset details (check Roboflow for terms; often CC BY
 Training results (after 80 epochs): mAP50-95 ~0.600, with high precision for players (~0.962) and referees (~0.896).
 
 # 🏗️ Project Structure
+
 textfootball-video-analysis/
+
 ├── Train_Data_Robflow.ipynb     # Dataset download, model training with YOLO
 ├── Football_Analysis.ipynb      # Video processing, detection, tracking, and annotation
 ├── models/
