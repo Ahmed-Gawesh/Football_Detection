@@ -35,8 +35,7 @@ Training results (after 80 epochs): mAP50-95 ~0.600, with high precision for pla
 
 # 🏗️ Project Structure
 
-textfootball-video-analysis/
-
+football-video-analysis/
 ├── Train_Data_Robflow.ipynb     # Dataset download, model training with YOLO
 ├── Football_Analysis.ipynb      # Video processing, detection, tracking, and annotation
 ├── models/
