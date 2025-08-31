@@ -1,4 +1,4 @@
-## Football Detection
+# Football Detection
 
 # 📖 Project Overview
 This project implements a computer vision system for analyzing football (soccer) videos using object detection and tracking. It detects key elements like the ball, players, goalkeepers, and referees in video frames. The model is trained using YOLO (You Only Look Once) from Ultralytics and applied to track objects across video sequences. The system processes input videos, annotates detections, and outputs an analyzed video with bounding boxes and tracks.
